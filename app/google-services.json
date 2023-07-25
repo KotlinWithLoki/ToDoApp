@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116515741312",
+    "project_id": "dubadd-20bc5",
+    "storage_bucket": "dubadd-20bc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116515741312:android:34c02ca1e13d0ddbc71065",
+        "android_client_info": {
+          "package_name": "android.atest.dubadd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116515741312-36jbumrcfhq95gq3noi97346kt7qsckc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-paGc0i9x9smBB5RumvkVwhbfx0qs1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116515741312-36jbumrcfhq95gq3noi97346kt7qsckc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
